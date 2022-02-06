@@ -10,6 +10,7 @@ using System.Windows.Forms;
 
 namespace FirstGit
 {
+    // комментарий
     public partial class MainForm : Form
     {
         public MainForm()
