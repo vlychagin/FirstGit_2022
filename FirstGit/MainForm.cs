@@ -15,7 +15,7 @@ namespace FirstGit
     {
         public MainForm()
         {
-            // ветвь master 
+            // ветвь branch1 
             InitializeComponent();
 
             listBox1 = new ListBox();
