@@ -20,6 +20,9 @@ namespace FirstGit
 
             listBox1 = new ListBox();
             listBox2 = new ListBox();
+
+            // мое видение пробелмы получения сегодняшней даты
+            DateTime today = DateTime.Now;
         }
     }
 }
