@@ -22,6 +22,8 @@ namespace FirstGit
             listBox2 = new ListBox();
 
             // мое видение пробелмы получения сегодняшней даты
+            // 
+            // 
             DateTime today = DateTime.Now;
         }
     }
